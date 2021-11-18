@@ -4,18 +4,17 @@ Tweeter app is a single page app developed using Jquery to dynamcally post tweet
 
 ## Final Product
 
-!["screenshot of app mobile"](https://github.com/isaiahmutekanga/tweeterapp/blob/master/docs/tiny%20app%20logged%20out.png)
+!["screenshot of app mobile"](https://github.com/isaiahmutekanga/tweeterapp/blob/ca59d76cd3d07d383d2e7fc5480e1782e54fe9bb/screenshots/Mobile.png)
 
-!["Screenshot of app desktop"](https://github.com/isaiahmutekanga/tinyapp/blob/master/docs/tinyapp%20logged%20in.png)
+!["Screenshot of app desktop"](https://github.com/isaiahmutekanga/tweeterapp/blob/ca59d76cd3d07d383d2e7fc5480e1782e54fe9bb/screenshots/desktop.png)
 
 ## Dependencies
 
-- Node.js
+- md5
 - Express
-- EJS
-- bcrypt
+- chance
 - body-parser
-- cookie-session
+
 
 ## Getting Started
 
